@@ -1099,3 +1099,4 @@ GitHub repository: AirBnB_clone_v2
 File: 3-deploy_web_static.py
    
 Copyright © 2023 ALX, All rights reserved.
+Connect to web server
